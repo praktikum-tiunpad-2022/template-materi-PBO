@@ -1,11 +1,11 @@
-# Welcome to [Slidev](https://github.com/slidevjs/slidev)!
+# Template Materi PBO
 
-To start the slide show:
+Untuk menjalankan slides :
 
-- `npm install`
-- `npm run dev`
-- visit http://localhost:3030
+- `pnpm install`
+- `pnpm run dev`
+- Buka di browser http://localhost:3030
 
-Edit the [slides.md](./slides.md) to see the changes.
-
-Learn more about Slidev on [documentations](https://sli.dev/).
+## Notes
+- Projek ini memakai pnpm (bukan npm)!
+- Per tanggal 11 September 2022, masih ada bug jika tidak menggunakan pnpm-lock yang ada di repo ini, detailnya di [sini](https://github.com/slidevjs/slidev/issues/704)
